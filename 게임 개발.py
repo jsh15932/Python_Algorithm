@@ -33,7 +33,7 @@ while True:
         d[nx][ny] = 1
         x = nx
         y = ny
-        cnt+= 1
+        cnt += 1
         t = 0
         continue
 
